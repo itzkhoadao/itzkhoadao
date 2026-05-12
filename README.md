@@ -51,3 +51,4 @@ A data analysis project completed during my internship at Abbott, focused on aut
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/annkhoadao/
+- Email: daoanhkhoa.vn@gmail.com
